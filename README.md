@@ -13,3 +13,4 @@ Technologies Used:
 HTML5: Used for structuring the web pages.
 CSS3: Used for styling the website and making it responsive.
 JavaScript: Used for implementing interactive features such as cart management and search functionality.
+https://github.com/Uzma08/amazon-clone
